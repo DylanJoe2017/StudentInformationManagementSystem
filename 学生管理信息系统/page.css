@@ -1,0 +1,23 @@
+/* Smis */
+    body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+    }
+    .bWord {
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #006633;
+    }
+    .sWord {
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #006633;
+    }
